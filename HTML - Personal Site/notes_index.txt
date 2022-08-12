@@ -1,0 +1,20 @@
+DOCTYPE talks abotu which html type we are using 
+bwn the 2 html tags, tells that everything bwn is html code 
+2 things body and head 
+head describes info abt webpage, te4lls browser how to handle webpage 
+utf8 is basically a set out of which it displays the whole thing, using a diffnt world language and a diffnt set
+can cause page to look very weird 
+there are a couple of attributes in the meta tag, which tells the browser exactly what it should refer to it as 
+
+<em> is meant to convey emphasis 
+    
+
+<ul> = not self closing, unordered list 
+<ol> = selfclosing, ordered list 
+
+
+in tables 3 things are there, the header the footer and the body 
+in the body we use the <tr> tag to fill in each row, we cant fill column wise, we can only fill row wise 
+
+talked about html tables and a couple of attributes of html table 
+

@@ -1,0 +1,21 @@
+so those 90s websites are html based and no css 
+also html = hypertext markup language
+basically defines the structure, which part should be in bold italics, etc. etc.
+
+codepen.io
+h1 - h6 
+
+documentation is key 
+mdn and w3schools are documentation resources 
+<h1></h1> are the opening and closing heading tags respectively 
+also <br> = self closing tag 
+can read everything off of the documentation 
+
+html attributes... both self closing and general tags can have this 
+<hr size='3'>
+horizontal line of size 3
+
+for commenting in html 
+<!-- for opening and --> for closing
+
+we talkd about markup part of the article, but for hyperlink part, we will do now 
